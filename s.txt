@@ -1,2 +1,0 @@
-This is the initial file created to link the git hub repo to the local system. 
-this is the link : https://github.com/PraveenKumarM17/Practice_mern_projects.git 
